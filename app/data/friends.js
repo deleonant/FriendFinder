@@ -19,11 +19,8 @@ ar friendfinderArray = [
 	{
 		Name: "Antonio",
 		Email: "deleonant@gmail.com",
-		ID: "deleonant",
-		phoneNumber: "123-256-4440",
+		ID: "tonote",
+		phoneNumber: "123-456-7890",
 
 	}
 ];
-
-
-module.exports = friendfinderArray; 
